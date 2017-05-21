@@ -1,3 +1,11 @@
-This is a Working Version of Webpack Babel and React
+Skeleton
 =========================
 
+Implements - NextJS:
+* Webpack 
+* Babel
+* React
+* React-Router
+
+Feature:
+* Isomorphic
